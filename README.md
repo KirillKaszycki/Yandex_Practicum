@@ -3,7 +3,7 @@
 Проекты по курсу Спеицалист по Data Science
 
 ###  Data Science Projects:
-| Название | Краткое описание | Технологии |
+| Название | Краткое описание и ссылка| Технологии |
 | :--------: | :--------: | :-------: |
 |Исследовательский анализ данных|[Анализ рынка недвижимости](https://github.com/KirillKaszycki/Yandex_Practicum/tree/main/Projects/03_Explorative_data_analysis) |<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/MatPlotlib-black?style=flat-square"/><img src="https://img.shields.io/badge/SciPy-yellow?style=flat-square"/>|
 |Статистический анализ данных|[Проверка статистических гипотез для сервиса аренды самокатов](https://github.com/KirillKaszycki/Yandex_Practicum/tree/main/Projects/04_Statistical_Data_Analysis) |<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/MatPlotlib-black?style=flat-square"/><img src="https://img.shields.io/badge/SciPy-yellow?style=flat-square"/>|
