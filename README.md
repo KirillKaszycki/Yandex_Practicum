@@ -2,26 +2,10 @@
 
 Проекты по курсу Спеицалист по Data Science
 
-- Исследовательский анализ данных
-- Статистический анализ данных
-- Сборный проект 1
-- Введение в машинное обучение
-- Обучение с учителем
-- Машинное обучение в бизнесе
-- Сборный проект 2
-- Линейная алгебра
-- Численные методы
-- Временные ряды
-- Машинное обучение для текстов
-- Базовый SQL
-- Комьютерное зрение
-- Дипломный проект
-
-
 ###  Data Science Projects:
 | Название | Краткое описание | Технологии |
 | :--------: | :--------: | :-------: |
-|[Исследовательский анализ данных]|[Анализ рынка недвижимости](https://github.com/KirillKaszycki/Yandex_Practicum/tree/main/Projects/03_Explorative_data_analysis) |<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/MatPlotlib-black?style=flat-square"/><img src="https://img.shields.io/badge/SciPy-yellow?style=flat-square"/>|
+|Исследовательский анализ данных|[Анализ рынка недвижимости](https://github.com/KirillKaszycki/Yandex_Practicum/tree/main/Projects/03_Explorative_data_analysis) |<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/MatPlotlib-black?style=flat-square"/><img src="https://img.shields.io/badge/SciPy-yellow?style=flat-square"/>|
 |[Статистический анализ данных]|[Проверка статистических гипотез для сервиса аренды самокатов](https://github.com/KirillKaszycki/Yandex_Practicum/tree/main/Projects/04_Statistical_Data_Analysis) |<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/MatPlotlib-black?style=flat-square"/><img src="https://img.shields.io/badge/SciPy-yellow?style=flat-square"/>|
 |[Сборный проект 1]|[Анализ и оценка популярности игр](https://github.com/KirillKaszycki/Yandex_Practicum/tree/main/Projects/05_Final_Analysis_Project) |<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/MatPlotlib-black?style=flat-square"/><img src="https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly&logoColor=orange"/>||
 |[Введение в машинное обучение]|[Прогноз рекомендации тарифов](https://github.com/KirillKaszycki/Yandex_Practicum/tree/main/Projects/06_Introduction_Into_ML) |<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/Sklearn-black?style=flat-square&logo=scikitlearn&logoColor=orange"/>|
