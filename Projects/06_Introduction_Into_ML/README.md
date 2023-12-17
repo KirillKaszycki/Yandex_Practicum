@@ -1,5 +1,5 @@
-# introduction_into_ML
+# Введение в машинное обучение
 
-The initial ML project - mobile tarifs classifier
+Базовые понятия бинарной классификации
 
-Models used are Logistic Regression, Decision Tree, Random Forest.
+ Logistic Regression, Decision Tree, Random Forest.
